@@ -2,7 +2,7 @@
 
 Realizado com as aulas do [B7Web](https://lp.b7web.com.br/fullstack) com o professor [Bonieky Lacerda](https://www.instagram.com/bonieky/)
 
-#### Projeto construído com HTML | CSS | Javascrip
+#### Projeto construído com HTML | CSS | Javascript
 
 #### Fotos
 
